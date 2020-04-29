@@ -1,0 +1,20 @@
+layered architecture 
+microservices 
+
+
+1. define compoents , organized and assemble them 
+2. communication between components (API And messaging)
+3. Scalability, managable,perfomance i. non-functional
+
+Architectural pattern.
+level1 : Monolithic   | Service based       | distributed
+level2 : layered Arch |  microservices based| Event driven based
+
+layered Arch :
+1. monolithic 
+2. layered is major compoent
+3. also known as N-tier ac
+
+Microlernal architectural pattern
+1. AKA plugin architectural pattern
+2. major components : core system (like kernal , plugins)
